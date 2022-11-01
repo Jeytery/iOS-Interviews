@@ -6,7 +6,8 @@
 [interview 3](https://www.youtube.com/watch?v=z-27o6bJh8A) \
 [interview 4](https://www.youtube.com/watch?v=CadPMJJsl0E&t=3961s) \
 [interview 5](https://www.youtube.com/watch?v=GTMbd9BtHXk&t=2s) \
-[interview 6](https://www.youtube.com/watch?v=9iQnkjW39fM&t=2575s)
+[interview 6](https://www.youtube.com/watch?v=9iQnkjW39fM&t=2575s) \
+[interview 7](https://www.youtube.com/watch?v=HuatPTKnbbQ&t=1749s)
 ### how to
 https://www.youtube.com/watch?v=ogo6osFj5SY
 
