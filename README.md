@@ -4,7 +4,7 @@
 - [interview 1](https://www.youtube.com/watch?v=GTMbd9BtHXk) \
 Senior. Вставки MVVM + RxSwift. Create Networking Service in whiteboard
 - [interview 2](https://www.youtube.com/watch?v=a_z4U0RvQgQ) \
-Middle+. Ряд глубоких вопросов
+Middle+. Ряд глубоких вопросов. Эталонное проведение от Alex Ozun
 - [interview 3](https://www.youtube.com/watch?v=z-27o6bJh8A)
 - [interview 4](https://www.youtube.com/watch?v=CadPMJJsl0E&t=3961s) \
 Senior. MVVM, RxSwift + Architecture in whiteboard
