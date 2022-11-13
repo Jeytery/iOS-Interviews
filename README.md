@@ -1,5 +1,7 @@
 # iOS-Interviews
 
+Сборка качественных собесов от лучших разработчиков сферы (по моему мнению)
+
 ### interviews 
 - [interview 1](https://www.youtube.com/watch?v=GTMbd9BtHXk) \
 Senior. Вставки MVVM + RxSwift. Create Networking Service in whiteboard
