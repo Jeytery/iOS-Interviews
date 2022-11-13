@@ -12,7 +12,9 @@ Senior. Очень потный и душный теоретический со�
 - [interview 4](https://www.youtube.com/watch?v=CadPMJJsl0E&t=3961s) \
 Senior. MVVM, RxSwift + Architecture in whiteboard. Легендарный Зимин
 - [interview 5](https://www.youtube.com/watch?v=9iQnkjW39fM&t=2575s)
-- [interview 6](https://www.youtube.com/watch?v=HuatPTKnbbQ&t=1749s)
+- [interview 6](https://www.youtube.com/watch?v=HuatPTKnbbQ&t=1749s) \
+Middle. Качественный, дружелюбный и в меру глубокий собес
+
 ### how to
 https://www.youtube.com/watch?v=ogo6osFj5SY
 
