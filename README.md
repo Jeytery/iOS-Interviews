@@ -15,6 +15,10 @@ Senior. MVVM, RxSwift + Architecture in whiteboard. Легендарный Зи�
 - [interview 6](https://www.youtube.com/watch?v=HuatPTKnbbQ&t=1749s) \
 Middle. Качественный, дружелюбный и в меру глубокий собес
 
+### materials 
+высокоуровневые вопросы по киту
+[click](https://chetan-aggarwal.medium.com/ios-interview-questions-part-4-uikit-a8b6c8fda042) 
+
 ### how to
 https://www.youtube.com/watch?v=ogo6osFj5SY
 
